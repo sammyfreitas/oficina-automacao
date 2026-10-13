@@ -1,0 +1,11 @@
+codigo,modelo,fabricante,categoria,cor,ano,descricao,valor,estoque
+"FON007","Fit Sport","JBL","Fone de ouvido","Branco","2026","Fone de ouvido para cadastro fictício","283.00","12"
+"FON008","Pods Neo","Motorola","Fone de ouvido","Azul","2025","Fone de ouvido para cadastro fictício","315.00","13"
+"FON009","Flex ANC","Edifier","Fone de ouvido","Preto","2026","Fone de ouvido para cadastro fictício","347.00","14"
+"FON010","Wireless One","Samsung","Fone de ouvido","Branco","2025","Fone de ouvido para cadastro fictício","379.00","15"
+"ACE008","Capinha premium","Genérica","Capinha","Preto","2026","Acessório demonstrativo","77.00","18"
+"ACE009","Capinha magnética","Genérica","Capinha","Preto","2026","Acessório demonstrativo","83.00","19"
+"ACE010","Capinha colorida","Genérica","Capinha","Preto","2026","Acessório demonstrativo","89.00","20"
+"ACE011","Película cerâmica","Genérica","Película","Preto","2026","Acessório demonstrativo","95.00","21"
+"ACE012","Película antirreflexo","Genérica","Película","Preto","2026","Acessório demonstrativo","101.00","22"
+"ACE013","Película fosca","Genérica","Película","Preto","2026","Acessório demonstrativo","107.00","23"
