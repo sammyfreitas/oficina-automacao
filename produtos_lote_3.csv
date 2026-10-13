@@ -1,0 +1,11 @@
+codigo,modelo,fabricante,categoria,cor,ano,descricao,valor,estoque
+"ACE004","Capinha fosca","Genérica","Capinha","Preto","2026","Acessório compatível; verificar modelo do aparelho","47.90","22"
+"ACE005","Película vidro 3D","Genérica","Película","Azul","2026","Acessório compatível; verificar modelo do aparelho","54.90","25"
+"ACE006","Película privacidade","Genérica","Película","Transparente","2026","Acessório compatível; verificar modelo do aparelho","61.90","28"
+"ACE007","Película hidrogel","Genérica","Película","Preto","2026","Acessório compatível; verificar modelo do aparelho","68.90","31"
+"FON001","Buds Lite","Xiaomi","Fone de ouvido","Branco","2026","Fone de ouvido para cadastro fictício","91.00","6"
+"FON002","AirSound","JBL","Fone de ouvido","Azul","2025","Fone de ouvido para cadastro fictício","123.00","7"
+"FON003","Tune Mini","Motorola","Fone de ouvido","Preto","2026","Fone de ouvido para cadastro fictício","155.00","8"
+"FON004","Wave Pro","Edifier","Fone de ouvido","Branco","2025","Fone de ouvido para cadastro fictício","187.00","9"
+"FON005","Bass Go","Samsung","Fone de ouvido","Azul","2026","Fone de ouvido para cadastro fictício","219.00","10"
+"FON006","Studio Max","Xiaomi","Fone de ouvido","Preto","2025","Fone de ouvido para cadastro fictício","251.00","11"
