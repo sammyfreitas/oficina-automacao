@@ -1,0 +1,11 @@
+codigo,modelo,fabricante,categoria,cor,ano,descricao,valor,estoque
+"CEL001","Galaxy A16","Samsung","Celular","Prata","2026","Smartphone Galaxy A16 para demonstração","1145.00","5"
+"CEL002","Galaxy A26","Samsung","Celular","Preto","2024","Smartphone Galaxy A26 para demonstração","1268.00","6"
+"CEL003","Galaxy A36","Samsung","Celular","Azul","2025","Smartphone Galaxy A36 para demonstração","1391.00","7"
+"CEL004","Galaxy S24","Samsung","Celular","Prata","2026","Smartphone Galaxy S24 para demonstração","1514.00","8"
+"CEL005","Galaxy S25","Samsung","Celular","Preto","2024","Smartphone Galaxy S25 para demonstração","1637.00","9"
+"CEL006","Redmi Note 14","Xiaomi","Celular","Azul","2025","Smartphone Redmi Note 14 para demonstração","1760.00","10"
+"CEL007","Redmi 14C","Xiaomi","Celular","Prata","2026","Smartphone Redmi 14C para demonstração","1883.00","11"
+"CEL008","Poco X7","Xiaomi","Celular","Preto","2024","Smartphone Poco X7 para demonstração","2006.00","12"
+"CEL009","Poco F6","Xiaomi","Celular","Azul","2025","Smartphone Poco F6 para demonstração","2129.00","13"
+"CEL010","iPhone 13","Apple","Celular","Prata","2026","Smartphone iPhone 13 para demonstração","2252.00","14"
