@@ -49,8 +49,16 @@ def main():
 
     # LOOP: repete o cadastro para cada linha do arquivo.
     for numero, produto in tabela.iterrows():
-        digitar_produto(produto)
-        print(f"Produto {numero + 1}/{len(tabela)}: {produto['modelo']}")
+        atual = numero + 1
+        total = len(tabela)
+        print(f"[{atual}/{total}] Cadastrando: {produto['codigo']} - {produto['modelo']}...", flush=True)
+        try:
+            digitar_produto(produto)
+        except Exception as erro:
+            print(f"[{atual}/{total}] ERRO: {erro}", flush=True)
+            raise
+        # A confirmação de gravação é exibida na própria TecStore.
+        print(f"[{atual}/{total}] Cadastro enviado. Confira a confirmação na loja.", flush=True)
     print("Fim! Confira a tabela na área administrativa.")
 
 if __name__ == "__main__":
