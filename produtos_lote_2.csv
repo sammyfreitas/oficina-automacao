@@ -1,0 +1,11 @@
+codigo,modelo,fabricante,categoria,cor,ano,descricao,valor,estoque
+"CEL011","iPhone 14","Apple","Celular","Preto","2024","Smartphone iPhone 14 para demonstração","2375.00","3"
+"CEL012","iPhone 15","Apple","Celular","Azul","2025","Smartphone iPhone 15 para demonstração","2498.00","4"
+"CEL013","iPhone 16","Apple","Celular","Prata","2026","Smartphone iPhone 16 para demonstração","2621.00","5"
+"CEL014","Moto G35","Motorola","Celular","Preto","2024","Smartphone Moto G35 para demonstração","2744.00","6"
+"CEL015","Moto G55","Motorola","Celular","Azul","2025","Smartphone Moto G55 para demonstração","2867.00","7"
+"CEL016","Edge 50 Neo","Motorola","Celular","Prata","2026","Smartphone Edge 50 Neo para demonstração","2990.00","8"
+"CEL017","Edge 60","Motorola","Celular","Preto","2024","Smartphone Edge 60 para demonstração","3113.00","9"
+"ACE001","Capinha transparente","Genérica","Capinha","Preto","2026","Acessório compatível; verificar modelo do aparelho","26.90","13"
+"ACE002","Capinha silicone","Genérica","Capinha","Azul","2026","Acessório compatível; verificar modelo do aparelho","33.90","16"
+"ACE003","Capinha antichoque","Genérica","Capinha","Transparente","2026","Acessório compatível; verificar modelo do aparelho","40.90","19"
